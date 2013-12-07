@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string name="app_name">MOYO chart</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_main">Main</string>
+
+    <string name="title_activity_settings2">Settings</string>
+
+    <string name="Settings">SETTINGS</string>
+
+    <string name="MUAC_ODEMA">MUAC &amp; OEDEMA</string>
+
+    <string name="Data_Validation">Data Validation</string>
+
+    <string name="On">On</string>
+
+    <string name="Target_Weight">Target Weight</string>
+
+    <string name="Double_Data">Double Data Entry</string>
+
+    <string name="Length_Height">Length or Height</string>
+
+    <string name="Median_Weight">Median Weight</string>
+
+    <string name="Save">Save</string>
+
+    <string name="title_activity_data_validation">DataValidation</string>
+
+    <string name="Set_Validation">Set Validation</string>
+
+    <string name="title_activity_data_validaion">DataValidaion</string>
+
+    <string name="WHZ">WHZ</string>
+
+    <string name="WAZ">WAZ</string>
+
+    <string name="HAZ">HAZ</string>
+
+    <string name="Upper_Limit">Upper Limit</string>
+
+    <string name="Lower_Limit">Lower Limit</string>
+
+    <string name="Off">Off</string>
+
+    <string name="title_activity_startup_screen">StartupScreen</string>
+
+    <string name="dummy_button">Dummy Button</string>
+
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="AGE">Age</string>
+
+    <string name="Boy">Boy</string>
+
+    <string name="Girl">Girl</string>
+
+    <string name="Next">Next</string>
+
+    <string name="Gender">Gender</string>
+
+    <string name="Length">Length</string>
+
+    <string name="MUAC1">MUAC 1</string>
+
+    <string name="MUAC2">MUAC 2</string>
+
+    <string name="Weight">Weight</string>
+
+    <string name="DOB">DOB</string>
+
+    <string name="DOB1">Date of Birth</string>
+
+    <string name="Height">Height</string>
+
+    <string name="title_activity_length_height">LengthHeight</string>
+
+    <string name="title_activity_lengthor_height">LengthorHeight</string>
+
+    <string name="title_activity_test_test">TestTestActivity</string>
+
+    <string name="title_activity_start_up_page">StartUpPageActivity</string>
+
+    <string name="title_activity_summary">Summary</string>
+
+    <string name="LengthHeight">Length\\Height:</string>
+
+    <string name="NoOedema">No Oedema</string>
+
+    <string name="NutritionalDiagnosis">NUTRITIONAL DIAGNOSIS</string>
+
+    <string name="CLASSIFICATION">CLASSIFICATION</string>
+
+    <string name="WHZscore">Z-score (Weight-for-height):</string>
+
+    <string name="zscoreWHZ">zscore</string>
+
+    <string name="targetWeight">Target Weight:</string>
+
+    <string name="targetWeightValue">target weight</string>
+
+    <string name="medianWeight">Median Weight:</string>
+
+    <string name="MedianWeightValue">Median Weight</string>
+
+    <string name="Other">Other</string>
+
+    <string name="Interpretation">Interpretation</string>
+
+    <string name="Summary">Summary</string>
+
+    <string name="lengthboy">lengthboy</string>
+
+    <string name="heightboy">heightboy</string>
+
+    <string name="lengthgirl">lengthgirl</string>
+
+    <string name="heightgirl">heightgirl</string>
+
+    <string name="title_activity_main_activity_actions">Main_activity_actions</string>
+
+
+</resources>
